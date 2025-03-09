@@ -1,0 +1,15 @@
+/* body{
+    background: #ffe259;
+    background: linear-gradient(to right,#ffa751, #f8f8f8);
+}
+.bg{
+
+    background-position: center center;
+}
+.container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
